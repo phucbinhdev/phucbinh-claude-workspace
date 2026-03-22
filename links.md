@@ -16,7 +16,11 @@ File lưu các link được yêu cầu ghi nhớ, sắp xếp theo danh mục.
 
 ## Lập trình & Kỹ thuật
 
-### [Portfolio v2 — GitHub Repo](https://github.com/phucbinhdev/portfolio-v2)
+<!-- GitHub, docs, tutorial... -->
+
+## Git Repos
+
+### [Portfolio v2](https://github.com/phucbinhdev/portfolio-v2)
 - **Tóm tắt:** Dự án portfolio cá nhân (Next.js 15, React 19, TypeScript, Tailwind CSS)
 - **Ngày lưu:** 2026-03-22
 
