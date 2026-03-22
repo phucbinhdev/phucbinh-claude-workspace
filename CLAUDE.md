@@ -46,7 +46,7 @@
 
 ## Lập trình
 
-- Thư mục tổng: `/home/phucbinh_dev/`
+- Thư mục tổng: `/home/phucbinh_dev/phucbinh/`
 - Thư mục dự án code: `/home/phucbinh_dev/phucbinh/projects/` — nơi lưu tất cả các dự án code clone về
 - Dự án portfolio chính: `/home/phucbinh_dev/phucbinh/projects/portfolio-v2` (Next.js 15, React 19, TypeScript, Tailwind CSS)
 - Luôn đọc file trước khi chỉnh sửa.
