@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p ~/.claude/channels/telegram)",
+      "Read(//home/phucbinh_dev/.claude/channels/telegram/**)",
+      "Bash(chmod:*)",
+      "mcp__plugin_telegram_telegram__reply",
+      "Skill(update-config)",
+      "Bash(ssh-keygen:*)",
+      "Bash(ssh:*)",
+      "Skill(claude-api)",
+      "Bash(gh pr:*)",
+      "Bash(git remote:*)",
+      "Bash(curl -fsSL https://deb.nodesource.com/setup_20.x)",
+      "Bash(sudo -E bash -)",
+      "Bash(sudo apt-get:*)",
+      "Bash(npm --version)",
+      "Bash(curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg)",
+      "Bash(sudo tee:*)",
+      "Bash(sudo apt:*)",
+      "Bash(gh:*)"
+    ]
+  }
+}

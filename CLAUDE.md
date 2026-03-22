@@ -46,7 +46,9 @@
 
 ## Lập trình
 
-- Dự án portfolio chính: `/home/phucbinh_dev/portfolio-v2` (Next.js 15, React 19, TypeScript, Tailwind CSS)
+- Thư mục tổng: `/home/phucbinh_dev/`
+- Thư mục dự án code: `/home/phucbinh_dev/phucbinh/projects/` — nơi lưu tất cả các dự án code clone về
+- Dự án portfolio chính: `/home/phucbinh_dev/phucbinh/projects/portfolio-v2` (Next.js 15, React 19, TypeScript, Tailwind CSS)
 - Luôn đọc file trước khi chỉnh sửa.
 - Ưu tiên edit file có sẵn thay vì tạo file mới.
 - Commit message theo format: `type: mô tả ngắn` (type: feat/fix/chore/refactor/docs)
